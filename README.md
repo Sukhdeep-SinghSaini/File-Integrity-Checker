@@ -78,14 +78,14 @@ Future enhancements may include:
 
 The File Integrity Checker developed using Python with a Tkinter-based GUI is a practical and user-friendly solution for monitoring file changes and ensuring data integrity. By combining the power of cryptographic hashing with an accessible interface, this project addresses a vital need in cybersecurity and file management. It also demonstrates key concepts in Python programming, GUI development, and security principles, making it a valuable academic and practical endeavor.
 
-# OUTPUT
+# Output
 
 ![Image](https://github.com/user-attachments/assets/8a20a632-afaa-46a0-af83-c91aa731dc82)
 
-Monitoring Start
+**Monitoring Start**
 
 ![Image](https://github.com/user-attachments/assets/040e8813-f60c-47c1-a0a8-5d8213648735)
 
-Monitoring Stop
+**Monitoring Stop**
 
 ![Image](https://github.com/user-attachments/assets/d33cf8c3-2fc2-4ec2-b782-fe9c102385c0)
